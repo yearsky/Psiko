@@ -2,11 +2,18 @@
 import { useEffect, useState } from 'react'
 import Link from 'next/link'
 import { useParams, useRouter } from 'next/navigation'
-import { CheckCircle, XCircle, MinusCircle, RotateCcw, Home, BookOpen } from 'lucide-react'
+import { CheckCircle, XCircle, MinusCircle, RotateCcw, Home, BookOpen, Sparkles } from 'lucide-react'
 import { useSessionStore } from '@/store/sessionStore'
+import { useChatStore } from '@/store/chatStore'
 import { cn, getScoreRank, getScoreColor } from '@/lib/utils'
-import type { TestResult, SectionResult } from '@/types/psikotest'
+import type { TestResult, SectionResult, BaseQuestion } from '@/types/psikotest'
 import { QuestionCard } from '@/components/test/QuestionCard'
+import { ChatModal } from '@/components/ai/ChatModal'
+
+const MATH_TYPES = new Set([
+  'numerical_series', 'numerical_arithmetic', 'numerical_word_problem',
+  'logical_comparison', 'arithmetic', 'arithmetic_word_problem',
+])
 
 function ScoreCircle({ score }: { score: number }) {
   const color = getScoreColor(score)
@@ -34,7 +41,7 @@ function ScoreCircle({ score }: { score: number }) {
   )
 }
 
-function SectionResultCard({ section }: { section: SectionResult }) {
+function SectionResultCard({ section, onAskAI }: { section: SectionResult; onAskAI: (q: BaseQuestion) => void }) {
   const [expanded, setExpanded] = useState(false)
   const pkg = useSessionStore(s => s.packageData)
   const sectionData = pkg?.sections.find(s => s.id === section.sectionId)
@@ -84,6 +91,15 @@ function SectionResultCard({ section }: { section: SectionResult }) {
                   showResult
                   disabled
                 />
+                {MATH_TYPES.has(q.type) && (
+                  <button
+                    onClick={() => onAskAI(q)}
+                    className="mt-2 flex items-center gap-1.5 text-xs font-medium text-blue-600 bg-blue-50 hover:bg-blue-100 px-3 py-1.5 rounded-lg transition-colors"
+                  >
+                    <Sparkles className="w-3.5 h-3.5" />
+                    Tanya AI
+                  </button>
+                )}
               </div>
             )
           })}
@@ -98,7 +114,14 @@ export default function ResultsPage() {
   const testId = params.testId as string
   const router = useRouter()
   const store = useSessionStore()
+  const { openChat } = useChatStore()
   const [result, setResult] = useState<TestResult | null>(null)
+  const [chatQuestion, setChatQuestion] = useState<BaseQuestion | null>(null)
+
+  function handleAskAI(q: BaseQuestion) {
+    openChat(q.id)
+    setChatQuestion(q)
+  }
 
   useEffect(() => {
     if (!store.isFinished || !store.lastResult) {
@@ -200,6 +223,7 @@ export default function ResultsPage() {
           <SectionResultCard
             key={section.sectionId}
             section={section}
+            onAskAI={handleAskAI}
           />
         ))}
       </div>
@@ -223,6 +247,13 @@ export default function ResultsPage() {
           <Home className="w-4 h-4" /> Beranda
         </Link>
       </div>
+
+      {chatQuestion && (
+        <ChatModal
+          question={chatQuestion}
+          onClose={() => setChatQuestion(null)}
+        />
+      )}
     </div>
   )
 }
