@@ -1,0 +1,5 @@
+export { verbalQuestions } from './verbal'
+export { numerikQuestions } from './numerik'
+export { logikaQuestions } from './logika'
+export { gambarQuestions } from './gambar'
+export { dummyPackages } from './tests'
