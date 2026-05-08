@@ -15,7 +15,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '80' },
     ],
     correctAnswer: 'C',
-    explanation: 'Pola: ×2. 2×2=4, 4×2=8, ..., 32×2=64.',
+    explanation: 'Kenali tipe pola: perkalian / geometri. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Pola mengalikan 2: 32×2=64. Jadi jawabannya 64.',
     metadata: { source: null, crawledAt: null },
   },
   {
@@ -228,7 +228,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '80' },
     ],
     correctAnswer: 'C',
-    explanation: 'Pola mengalikan 2: 32×2=64.',
+    explanation: 'Kenali tipe pola: perkalian / geometri. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Pola mengalikan 2: 32×2=64. Jadi jawabannya 64.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -245,7 +245,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '200' },
     ],
     correctAnswer: 'D',
-    explanation: 'Setiap angka dikalikan 2: 80×2=160.',
+    explanation: 'Kenali tipe pola: perkalian / geometri. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Setiap angka dikalikan 2 sehingga 80×2=160. Jadi jawabannya 160.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -262,7 +262,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '60' },
     ],
     correctAnswer: 'A',
-    explanation: 'Deret bertambah 7 setiap langkah; 35+7=42.',
+    explanation: 'Kenali tipe pola: selisih / aritmetika. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Deret bertambah 7 setiap langkah; 35+7=42. Jadi jawabannya 42.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -279,7 +279,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '120' },
     ],
     correctAnswer: 'C',
-    explanation: 'Pola mengalikan 2: 48×2=96.',
+    explanation: 'Kenali tipe pola: perkalian / geometri. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Pola mengalikan 2: 48×2=96. Jadi jawabannya 96.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -296,7 +296,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '64' },
     ],
     correctAnswer: 'B',
-    explanation: 'Deret bilangan kuadrat: 6²=36.',
+    explanation: 'Kenali tipe pola: bilangan kuadrat. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Deret bilangan kuadrat: 6²=36. Jadi jawabannya 36.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -313,7 +313,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '34' },
     ],
     correctAnswer: 'B',
-    explanation: '+4 setiap langkah: 27+4=31.',
+    explanation: 'Kenali tipe pola: selisih / aritmetika. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: +4 setiap langkah: 27+4=31. Jadi jawabannya 31.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -330,7 +330,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '55' },
     ],
     correctAnswer: 'A',
-    explanation: 'Selisihnya -10,-9,-8,-7,-6; 66-6=60.',
+    explanation: 'Kenali tipe pola: selisih / aritmetika. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Selisihnya -10,-9,-8,-7,-6; 66-6=60. Jadi jawabannya 60.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -347,7 +347,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '100' },
     ],
     correctAnswer: 'B',
-    explanation: 'Selisih +5,+10,+15,+20,+25: 54+25=79.',
+    explanation: 'Kenali tipe pola: selisih / aritmetika. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Selisih +5,+10,+15,+20,+25: 54+25=79. Jadi jawabannya 79.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -364,7 +364,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '208' },
     ],
     correctAnswer: 'B',
-    explanation: 'Deret mengalikan 2: 96×2=192.',
+    explanation: 'Kenali tipe pola: perkalian / geometri. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Deret mengalikan 2: 96×2=192. Jadi jawabannya 192.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -381,7 +381,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '-9' },
     ],
     correctAnswer: 'C',
-    explanation: 'Selisih -1,-2,-3,-4,-5: -2-5=-7.',
+    explanation: 'Kenali tipe pola: selisih / aritmetika. Cara cepat: cek apakah posisi kosong berada di akhir atau di tengah deret, lalu cocokkan pola ke semua posisi kosong. Hitung: Selisih -1,-2,-3,-4,-5: -2-5=-7. Jadi jawabannya -7.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -398,7 +398,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '54' },
     ],
     correctAnswer: 'B',
-    explanation: 'Selisih +5,+6,+7,+8,+9: 39+9=48.',
+    explanation: 'Kenali tipe pola: selisih / aritmetika. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Selisih +5,+6,+7,+8,+9: 39+9=48. Jadi jawabannya 48.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -415,7 +415,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '64' },
     ],
     correctAnswer: 'D',
-    explanation: 'Pola ×2+1: 31×2+1=63.',
+    explanation: 'Kenali tipe pola: perkalian / geometri. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Deret menambah angka dengan pola ×2+1: 31×2+1=63. Jadi jawabannya 63.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -432,7 +432,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '14' },
     ],
     correctAnswer: 'A',
-    explanation: 'Selisih berkurang: 24/1.2≈20.',
+    explanation: 'Kenali tipe pola: pembagian / rasio. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Deret dibagi berturut 1.5,1.5,1.333...,1.25; 24/1.2≈20. Jadi jawabannya 20.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -449,7 +449,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '24' },
     ],
     correctAnswer: 'A',
-    explanation: 'Selisih +1,+2,+3,+4,+5: 15+5=20.',
+    explanation: 'Kenali tipe pola: selisih / aritmetika. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Selisih +1,+2,+3,+4,+5: 15+5=20. Jadi jawabannya 20.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -466,7 +466,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '60' },
     ],
     correctAnswer: 'B',
-    explanation: 'Selisih +3,+6,+9,+12,+15: 32+15=47.',
+    explanation: 'Kenali tipe pola: selisih / aritmetika. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Selisih +3,+6,+9,+12,+15: 32+15=47. Jadi jawabannya 47.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -483,7 +483,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '59' },
     ],
     correctAnswer: 'B',
-    explanation: 'Selisih +3,+6,+9,+12,+15: 37+15=52.',
+    explanation: 'Kenali tipe pola: selisih / aritmetika. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Selisih +3,+6,+9,+12,+15: 37+15=52. Jadi jawabannya 52.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -500,7 +500,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '27' },
     ],
     correctAnswer: 'C',
-    explanation: 'Selisih +2,+3,+4,+5,+6: 17+6=23.',
+    explanation: 'Kenali tipe pola: selisih / aritmetika. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Selisih +2,+3,+4,+5,+6: 17+6=23. Jadi jawabannya 23.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -517,7 +517,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '1' },
     ],
     correctAnswer: 'D',
-    explanation: 'Kurangi 25 setiap langkah: 25-25=0.',
+    explanation: 'Kenali tipe pola: selisih / aritmetika. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Kurangi 25 setiap langkah: 25-25=0. Jadi jawabannya 0.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -534,7 +534,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '63' },
     ],
     correctAnswer: 'B',
-    explanation: 'Deret bertambah 9: 45+9=54.',
+    explanation: 'Kenali tipe pola: selisih / aritmetika. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Deret bertambah 9: 45+9=54. Jadi jawabannya 54.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -551,7 +551,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '540' },
     ],
     correctAnswer: 'C',
-    explanation: 'Kali 1.5,2,3,4,5: 72×5=360.',
+    explanation: 'Kenali tipe pola: perkalian / geometri. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Kali 1.5,2,3,4,5: 72×5=360. Jadi jawabannya 360.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -568,7 +568,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '26' },
     ],
     correctAnswer: 'C',
-    explanation: 'Selisih +2,+3,+4,+5,+6: 18+6=24.',
+    explanation: 'Kenali tipe pola: selisih / aritmetika. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Selisih +2,+3,+4,+5,+6: 18+6=24. Jadi jawabannya 24.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -585,7 +585,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '260' },
     ],
     correctAnswer: 'D',
-    explanation: 'Deret mengalikan 2: 120×2=240.',
+    explanation: 'Kenali tipe pola: perkalian / geometri. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Deret mengalikan 2: 120×2=240. Jadi jawabannya 240.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -602,7 +602,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '1000' },
     ],
     correctAnswer: 'D',
-    explanation: 'Faktorial: 5!=120, 6!=720.',
+    explanation: 'Kenali tipe pola: faktorial. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Faktorial: 5! = 120, 6! = 720. Jadi jawabannya 720.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -619,7 +619,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '31' },
     ],
     correctAnswer: 'A',
-    explanation: 'Selisih -5,-4,-3,-2,-1: 36-1=35.',
+    explanation: 'Kenali tipe pola: selisih / aritmetika. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Selisih -5,-4,-3,-2,-1: 36-1=35. Jadi jawabannya 35.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -636,7 +636,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '300' },
     ],
     correctAnswer: 'D',
-    explanation: 'Deret mengalikan 3: 81×3=243.',
+    explanation: 'Kenali tipe pola: perkalian / geometri. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Deret mengalikan 3: 81×3=243. Jadi jawabannya 243.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
 
@@ -655,7 +655,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '12' },
     ],
     correctAnswer: 'C',
-    explanation: 'Ada dua pola: bilangan besar menurun 10 (100, 90, 80, ...) dan bilangan kecil bertambah 3 (4, 7, 10, ...). Setelah 80 muncul 10.',
+    explanation: 'Kenali tipe pola: selisih / aritmetika. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Ada dua pola: bilangan besar menurun 10 (100, 90, 80, 70 ...) dan bilangan kecil bertambah 3 (4, 7, 10, 13 ...). Setelah 80 muncul 10. Jadi jawabannya 10.',
     metadata: { source: 'psikotest_questions.json', crawledAt: '2026-05-08' },
   },
   {
@@ -672,7 +672,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '17' },
     ],
     correctAnswer: 'E',
-    explanation: 'Pola penambahan 2 kemudian 3 bergantian: 5+2=7, 7+3=10, 10+2=12, 12+3=15, sehingga 15+2=17.',
+    explanation: 'Kenali tipe pola: pola selang-seling / dua deret. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Pola penambahan 2 kemudian 3 bergantian: 5+2=7, 7+3=10, 10+2=12, 12+3=15, sehingga 15+2=17. Jadi jawabannya 17.',
     metadata: { source: 'psikotest_questions.json', crawledAt: '2026-05-08' },
   },
   {
@@ -706,7 +706,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '7-9' },
     ],
     correctAnswer: 'E',
-    explanation: 'Deret berpasangan: pasangan kedua (5,3) memiliki selisih -2 dari pasangan sebelumnya (5). Polanya menghasilkan pasangan baru (7,9).',
+    explanation: 'Kenali tipe pola: selisih / aritmetika. Cara cepat: cek apakah posisi kosong berada di akhir atau di tengah deret, lalu cocokkan pola ke semua posisi kosong. Hitung: Deret berpasangan: pasangan kedua (5,3) memiliki selisih -2 dari pasangan sebelumnya (5). Polanya menghasilkan pasangan baru (7,9). Jadi jawabannya 7-9.',
     metadata: { source: 'psikotest_questions.json', crawledAt: '2026-05-08' },
   },
   {
@@ -723,7 +723,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '19' },
     ],
     correctAnswer: 'C',
-    explanation: 'Kenaikan bertambah satu: +2, +3, +4, sehingga berikutnya +5 dan hasilnya 17.',
+    explanation: 'Kenali tipe pola: selisih / aritmetika. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Kenaikan bertambah satu: +2, +3, +4, sehingga berikutnya +5 dan hasilnya 17. Jadi jawabannya 17.',
     metadata: { source: 'psikotest_questions.json', crawledAt: '2026-05-08' },
   },
 
@@ -933,7 +933,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '24' },
     ],
     correctAnswer: 'C',
-    explanation: 'Selisih +2,+3,+4,+5,+6: 16+6=22.',
+    explanation: 'Kenali tipe pola: selisih / aritmetika. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Selisih +2,+3,+4,+5,+6: 16+6=22. Jadi jawabannya 22.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -950,7 +950,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '50' },
     ],
     correctAnswer: 'C',
-    explanation: 'Selisih +5,+6,+7,+8,+9: 38+9=47.',
+    explanation: 'Kenali tipe pola: selisih / aritmetika. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Selisih +5,+6,+7,+8,+9: 38+9=47. Jadi jawabannya 47.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -967,7 +967,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '11' },
     ],
     correctAnswer: 'A',
-    explanation: 'Pola kombinasi +2,-1 berulang; setelah 8 kembali ke 7.',
+    explanation: 'Kenali tipe pola: selisih / aritmetika. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Pola kombinasi +2,-1 berulang: 6+? (setelah 6, +2=8, -1=7). Jadi jawabannya 7.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -984,7 +984,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '26' },
     ],
     correctAnswer: 'C',
-    explanation: 'Tambah 1,2,3,4,5,6: 16+6=22.',
+    explanation: 'Kenali tipe pola: selisih / aritmetika. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Tambah 1,2,3,4,5,6: 16+6=22. Jadi jawabannya 22.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1001,7 +1001,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '81' },
     ],
     correctAnswer: 'A',
-    explanation: 'Deret kuadrat: 8²=64.',
+    explanation: 'Kenali tipe pola: bilangan kuadrat. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Deret kuadrat dengan kenaikan ganjil: 49+15=64. Jadi jawabannya 64.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1018,7 +1018,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '84.0' },
     ],
     correctAnswer: 'D',
-    explanation: 'Kurangi 3,25 setiap angka: 87-3,25=83,75.',
+    explanation: 'Kenali tipe pola: selisih / aritmetika. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Kurangi 3,25 setiap angka: 87-3,25=83,75. Jadi jawabannya 83.75.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1052,7 +1052,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '102' },
     ],
     correctAnswer: 'C',
-    explanation: 'Tambah 17 setiap langkah: 68+17=85.',
+    explanation: 'Kenali tipe pola: selisih / aritmetika. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Tambah 17 setiap langkah: 68+17=85. Jadi jawabannya 85.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1069,7 +1069,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '66' },
     ],
     correctAnswer: 'B',
-    explanation: 'Kurangi kelipatan 2,4,6,8,10,12: 70-12=58.',
+    explanation: 'Kenali tipe pola: selisih / aritmetika. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Kurangi kelipatan 2,4,6,8,10,12: 70-12=58. Jadi jawabannya 58.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1086,7 +1086,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '18.5' },
     ],
     correctAnswer: 'A',
-    explanation: 'Tambah 1.5,2.5,3.5,4.5,5.5: 13.5+5.5=19.',
+    explanation: 'Kenali tipe pola: selisih / aritmetika. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Tambah 1.5,2.5,3.5,4.5,5.5: 13.5+5.5=19. Jadi jawabannya 19.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1103,7 +1103,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '16' },
     ],
     correctAnswer: 'D',
-    explanation: 'Kali 2 lalu bagi 2 bergantian: 25÷2=12.5.',
+    explanation: 'Kenali tipe pola: pola selang-seling / dua deret. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Kali 2 lalu bagi 2 bergantian: 25÷2=12.5. Jadi jawabannya 12.5.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1154,7 +1154,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '3290' },
     ],
     correctAnswer: 'D',
-    explanation: 'Setiap angka dikali 5 ditambah 1: 656×5+1=3281.',
+    explanation: 'Kenali tipe pola: perkalian / geometri. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Setiap angka dikali 5 ditambah 1: 656×5+1=3281. Jadi jawabannya 3281.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1171,7 +1171,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '800' },
     ],
     correctAnswer: 'C',
-    explanation: 'Kurangi 28.6: 885.6-28.6=857.',
+    explanation: 'Kenali tipe pola: selisih / aritmetika. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Kurangi 28.6: 885.6-28.6=857. Jadi jawabannya 857.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1188,7 +1188,7 @@ export const numerikQuestions: BaseQuestion[] = [
       { id: 'E', text: '1008' },
     ],
     correctAnswer: 'C',
-    explanation: 'Kali 1,3,5,7,9: 105×9=945.',
+    explanation: 'Kenali tipe pola: perkalian / geometri. Cara cepat: cek selisih atau operasi antar-suku dari 3 transisi pertama, lalu validasi ke suku berikutnya sebelum memilih jawaban. Hitung: Kali 1,3,5,7,9: 105×9=945. Jadi jawabannya 945.',
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {

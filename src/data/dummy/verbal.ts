@@ -197,7 +197,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Nisbi' },
     ],
     correctAnswer: 'D',
-    explanation: "Kata 'Jenggala' bersinonim dengan 'Hutan'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Abadi' berlawanan makna dengan 'Sementara'. Jadi jawabannya Sementara.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -213,7 +213,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Ucap' },
     ],
     correctAnswer: 'A',
-    explanation: "Kata 'Relatif' bersinonim dengan 'Nisbi'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Relatif' bersinonim dengan 'Nisbi'. Jadi jawabannya Nisbi.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -229,7 +229,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Tiap-tiap' },
     ],
     correctAnswer: 'E',
-    explanation: "Kata 'Saban' bersinonim dengan 'Tiap-tiap'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Saban' bersinonim dengan 'Tiap-tiap'. Jadi jawabannya Tiap-tiap.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -245,7 +245,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Penghasut' },
     ],
     correctAnswer: 'B',
-    explanation: "Kata 'Angot' bersinonim dengan 'Kumat'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Angot' bersinonim dengan 'Kumat'. Jadi jawabannya Kumat.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -261,7 +261,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Swasta' },
     ],
     correctAnswer: 'D',
-    explanation: "Kata 'Tasik' bersinonim dengan 'Danau'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Tasik' bersinonim dengan 'Danau'. Jadi jawabannya Danau.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -277,7 +277,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Pengesahan' },
     ],
     correctAnswer: 'B',
-    explanation: "Kata 'Nanar' bersinonim dengan 'Bingung'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Nanar' bersinonim dengan 'Bingung'. Jadi jawabannya Bingung.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -293,7 +293,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Pengait' },
     ],
     correctAnswer: 'E',
-    explanation: "Kata 'Gancu' bersinonim dengan 'Pengait'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Gancu' bersinonim dengan 'Pengait'. Jadi jawabannya Pengait.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -309,7 +309,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Perbandingan' },
     ],
     correctAnswer: 'C',
-    explanation: "Kata 'Agitator' bersinonim dengan 'Penghasut'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Agitator' bersinonim dengan 'Penghasut'. Jadi jawabannya Penghasut.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -325,7 +325,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Domain' },
     ],
     correctAnswer: 'E',
-    explanation: "Kata 'Ranah' bersinonim dengan 'Domain'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Ranah' bersinonim dengan 'Domain'. Jadi jawabannya Domain.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -341,7 +341,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Wujud' },
     ],
     correctAnswer: 'E',
-    explanation: "Kata 'Entitas' bersinonim dengan 'Wujud'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Entitas' bersinonim dengan 'Wujud'. Jadi jawabannya Wujud.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -357,7 +357,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Hak bertanya' },
     ],
     correctAnswer: 'E',
-    explanation: "Kata 'Interpelasi' bersinonim dengan 'Hak bertanya'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Interpelasi' bersinonim dengan 'Hak bertanya'. Jadi jawabannya Hak bertanya.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -373,7 +373,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Domain' },
     ],
     correctAnswer: 'D',
-    explanation: "Kata 'Kampiun' bersinonim dengan 'Juara'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Kampiun' bersinonim dengan 'Juara'. Jadi jawabannya Juara.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -389,7 +389,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Danau' },
     ],
     correctAnswer: 'B',
-    explanation: "Kata 'Relung' bersinonim dengan 'Ruang'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Relung' bersinonim dengan 'Ruang'. Jadi jawabannya Ruang.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -405,7 +405,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Indah' },
     ],
     correctAnswer: 'B',
-    explanation: "Kata 'Motif' bersinonim dengan 'Pola'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Motif' bersinonim dengan 'Pola'. Jadi jawabannya Pola.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -421,7 +421,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Boros' },
     ],
     correctAnswer: 'C',
-    explanation: "Kata 'Barier' bersinonim dengan 'Penghalang'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Barier' bersinonim dengan 'Penghalang'. Jadi jawabannya Penghalang.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -437,7 +437,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Aspirasi' },
     ],
     correctAnswer: 'B',
-    explanation: "Kata 'Israf' bersinonim dengan 'Boros'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Israf' bersinonim dengan 'Boros'. Jadi jawabannya Boros.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -453,7 +453,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Hubungan' },
     ],
     correctAnswer: 'E',
-    explanation: "Kata 'Korelasi' bersinonim dengan 'Hubungan'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Korelasi' bersinonim dengan 'Hubungan'. Jadi jawabannya Hubungan.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -469,7 +469,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Tersendat' },
     ],
     correctAnswer: 'D',
-    explanation: "Kata 'Agun' bersinonim dengan 'Cagar'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Agun' bersinonim dengan 'Cagar'. Jadi jawabannya Cagar.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -485,7 +485,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Beradab' },
     ],
     correctAnswer: 'E',
-    explanation: "Kata 'Mudun' bersinonim dengan 'Beradab'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Mudun' bersinonim dengan 'Beradab'. Jadi jawabannya Beradab.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -501,7 +501,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Pengesahan' },
     ],
     correctAnswer: 'A',
-    explanation: "Kata 'Partikelir' bersinonim dengan 'Swasta'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Partikelir' bersinonim dengan 'Swasta'. Jadi jawabannya Swasta.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -517,7 +517,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Kasih' },
     ],
     correctAnswer: 'D',
-    explanation: "Kata 'Legitimasi' bersinonim dengan 'Pengesahan'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Legitimasi' bersinonim dengan 'Pengesahan'. Jadi jawabannya Pengesahan.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -533,7 +533,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Perulangan' },
     ],
     correctAnswer: 'E',
-    explanation: "Kata 'Iterasi' bersinonim dengan 'Perulangan'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Iterasi' bersinonim dengan 'Perulangan'. Jadi jawabannya Perulangan.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -549,7 +549,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Beradab' },
     ],
     correctAnswer: 'D',
-    explanation: "Kata 'Bibliografi' bersinonim dengan 'Daftar pustaka'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Bibliografi' bersinonim dengan 'Daftar pustaka'. Jadi jawabannya Daftar pustaka.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -565,7 +565,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Perbandingan' },
     ],
     correctAnswer: 'C',
-    explanation: "Kata 'Insomnia' bersinonim dengan 'Tak bisa tidur'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Insomnia' bersinonim dengan 'Tak bisa tidur'. Jadi jawabannya Tak bisa tidur.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -581,7 +581,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Kembang' },
     ],
     correctAnswer: 'B',
-    explanation: "Kata 'Galat' bersinonim dengan 'Keliru'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Galat' bersinonim dengan 'Keliru'. Jadi jawabannya Keliru.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -597,7 +597,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Perulangan' },
     ],
     correctAnswer: 'C',
-    explanation: "Kata 'Stagnan' bersinonim dengan 'Tersendat'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Stagnan' bersinonim dengan 'Tersendat'. Jadi jawabannya Tersendat.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -613,7 +613,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Swasta' },
     ],
     correctAnswer: 'A',
-    explanation: "Kata 'Pedar' bersinonim dengan 'Getir'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Pedar' bersinonim dengan 'Getir'. Jadi jawabannya Getir.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -629,7 +629,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Perbandingan' },
     ],
     correctAnswer: 'C',
-    explanation: "Kata 'Bahtera' bersinonim dengan 'Perahu'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Bahtera' bersinonim dengan 'Perahu'. Jadi jawabannya Perahu.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -645,7 +645,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Jelek' },
     ],
     correctAnswer: 'D',
-    explanation: "Kata 'Analogi' bersinonim dengan 'Perbandingan'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Analogi' bersinonim dengan 'Perbandingan'. Jadi jawabannya Perbandingan.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -661,7 +661,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Swasta' },
     ],
     correctAnswer: 'C',
-    explanation: "Kata 'Deportasi' bersinonim dengan 'Pengusiran'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Deportasi' bersinonim dengan 'Pengusiran'. Jadi jawabannya Pengusiran.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -677,7 +677,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Hubungan' },
     ],
     correctAnswer: 'D',
-    explanation: "Kata 'Ceruk' bersinonim dengan 'Lekuk'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Ceruk' bersinonim dengan 'Lekuk'. Jadi jawabannya Lekuk.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -693,7 +693,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Pengesahan' },
     ],
     correctAnswer: 'B',
-    explanation: "Kata 'Afirmasi' bersinonim dengan 'Penegasan'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Afirmasi' bersinonim dengan 'Penegasan'. Jadi jawabannya Penegasan.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -709,7 +709,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Daftar pustaka' },
     ],
     correctAnswer: 'D',
-    explanation: "Kata 'Klarifikasi' bersinonim dengan 'Penjelasan'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Klarifikasi' bersinonim dengan 'Penjelasan'. Jadi jawabannya Penjelasan.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -725,7 +725,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Tiap-tiap' },
     ],
     correctAnswer: 'A',
-    explanation: "Kata 'Cantik' bersinonim dengan 'Indah'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Cantik' bersinonim dengan 'Indah'. Jadi jawabannya Indah.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -741,7 +741,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Pengesahan' },
     ],
     correctAnswer: 'C',
-    explanation: "Kata 'Kaya' bersinonim dengan 'Mapan'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Kaya' bersinonim dengan 'Mapan'. Jadi jawabannya Mapan.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -757,7 +757,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Santun' },
     ],
     correctAnswer: 'E',
-    explanation: "Kata 'Adab' bersinonim dengan 'Santun'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Adab' bersinonim dengan 'Santun'. Jadi jawabannya Santun.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -773,7 +773,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Pintar' },
     ],
     correctAnswer: 'B',
-    explanation: "Kata 'Bakhil' bersinonim dengan 'Pelit'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Bakhil' bersinonim dengan 'Pelit'. Jadi jawabannya Pelit.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -789,7 +789,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Swasta' },
     ],
     correctAnswer: 'D',
-    explanation: "Kata 'Batas' bersinonim dengan 'Tapal'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Batas' bersinonim dengan 'Tapal'. Jadi jawabannya Tapal.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -805,7 +805,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Agung' },
     ],
     correctAnswer: 'E',
-    explanation: "Kata 'Besar' bersinonim dengan 'Agung'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Besar' bersinonim dengan 'Agung'. Jadi jawabannya Agung.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -821,7 +821,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Ruang' },
     ],
     correctAnswer: 'C',
-    explanation: "Kata 'Bicara' bersinonim dengan 'Ucap'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Bicara' bersinonim dengan 'Ucap'. Jadi jawabannya Ucap.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -837,7 +837,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Penghasut' },
     ],
     correctAnswer: 'A',
-    explanation: "Kata 'Bunga' bersinonim dengan 'Kembang'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Bunga' bersinonim dengan 'Kembang'. Jadi jawabannya Kembang.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -853,7 +853,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Daftar pustaka' },
     ],
     correctAnswer: 'D',
-    explanation: "Kata 'Buruk' bersinonim dengan 'Jelek'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Buruk' bersinonim dengan 'Jelek'. Jadi jawabannya Jelek.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -869,7 +869,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Pengusiran' },
     ],
     correctAnswer: 'D',
-    explanation: "Kata 'Cerdas' bersinonim dengan 'Pintar'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Cerdas' bersinonim dengan 'Pintar'. Jadi jawabannya Pintar.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -885,7 +885,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Getir' },
     ],
     correctAnswer: 'D',
-    explanation: "Kata 'Cita-cita' bersinonim dengan 'Aspirasi'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Cita-Cita' bersinonim dengan 'Aspirasi'. Jadi jawabannya Aspirasi.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -901,7 +901,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Tapal' },
     ],
     correctAnswer: 'A',
-    explanation: "Kata 'Cinta' bersinonim dengan 'Kasih'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Cinta' bersinonim dengan 'Kasih'. Jadi jawabannya Kasih.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -917,7 +917,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Juara' },
     ],
     correctAnswer: 'A',
-    explanation: "Kata 'Enak' bersinonim dengan 'Lezat'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Enak' bersinonim dengan 'Lezat'. Jadi jawabannya Lezat.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -933,7 +933,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Pengusiran' },
     ],
     correctAnswer: 'C',
-    explanation: "Kata 'Fana' bersinonim dengan 'Sementara'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Fana' bersinonim dengan 'Sementara'. Jadi jawabannya Sementara.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -949,7 +949,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Perulangan' },
     ],
     correctAnswer: 'B',
-    explanation: "Kata 'Gembira' bersinonim dengan 'Bahagia'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Gembira' bersinonim dengan 'Bahagia'. Jadi jawabannya Bahagia.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -965,7 +965,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Pintar' },
     ],
     correctAnswer: 'A',
-    explanation: "Kata 'Giat' bersinonim dengan 'Rajin'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Giat' bersinonim dengan 'Rajin'. Jadi jawabannya Rajin.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -981,7 +981,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Agung' },
     ],
     correctAnswer: 'D',
-    explanation: "Kata 'Inovasi' bersinonim dengan 'Pembaruan'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Inovasi' bersinonim dengan 'Pembaruan'. Jadi jawabannya Pembaruan.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
 
@@ -1241,7 +1241,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Tergantung' },
     ],
     correctAnswer: 'D',
-    explanation: "Antonim dari 'Nomadik' adalah 'Menetap'.",
+    explanation: "Kenali tipe soal: sinonim atau persamaan kata. Cara cepat: cari makna inti kata, lalu pilih opsi yang paling dekat maknanya; jangan terkecoh opsi yang hanya mirip bunyi. Kata 'Mobilitas' bersinonim dengan 'Gerak'. Jadi jawabannya Gerak.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1257,7 +1257,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Simpati' },
     ],
     correctAnswer: 'E',
-    explanation: "Antonim dari 'Antipati' adalah 'Simpati'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Antipati' berlawanan makna dengan 'Simpati'. Jadi jawabannya Simpati.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1273,7 +1273,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Perpisahan' },
     ],
     correctAnswer: 'D',
-    explanation: "Antonim dari 'Khas' adalah 'Umum'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Khas' berlawanan makna dengan 'Umum'. Jadi jawabannya Umum.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1289,7 +1289,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Durhaka' },
     ],
     correctAnswer: 'C',
-    explanation: "Antonim dari 'Ibu' adalah 'Ayah'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Ibu' berlawanan makna dengan 'Anak'. Jadi jawabannya Anak.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1305,7 +1305,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Religius' },
     ],
     correctAnswer: 'D',
-    explanation: "Antonim dari 'Muskil' adalah 'Mudah'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Muskil' berlawanan makna dengan 'Mungkin'. Jadi jawabannya Mungkin.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1321,7 +1321,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Diam' },
     ],
     correctAnswer: 'E',
-    explanation: "Antonim dari 'Vokal' adalah 'Diam'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Vokal' berlawanan makna dengan 'Konsonan'. Jadi jawabannya Konsonan.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1337,7 +1337,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Simpati' },
     ],
     correctAnswer: 'C',
-    explanation: "Antonim dari 'Sporadis' adalah 'Teratur'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Sporadis' berlawanan makna dengan 'Jarang'. Jadi jawabannya Jarang.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1353,7 +1353,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Takut' },
     ],
     correctAnswer: 'C',
-    explanation: "Antonim dari 'Sekuler' adalah 'Religius'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Sekuler' berlawanan makna dengan 'Keagamaan'. Jadi jawabannya Keagamaan.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1369,7 +1369,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Aman' },
     ],
     correctAnswer: 'E',
-    explanation: "Antonim dari 'Rawan' adalah 'Aman'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Rawan' berlawanan makna dengan 'Aman'. Jadi jawabannya Aman.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1385,7 +1385,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Hangat' },
     ],
     correctAnswer: 'B',
-    explanation: "Antonim dari 'Amatir' adalah 'Profesional'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Amatir' berlawanan makna dengan 'Jago'. Jadi jawabannya Jago.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1401,7 +1401,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Lembah' },
     ],
     correctAnswer: 'D',
-    explanation: "Antonim dari 'Absurd' adalah 'Rasional'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Absurd' berlawanan makna dengan 'Masuk akal'. Jadi jawabannya Masuk akal.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1417,7 +1417,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Tersembunyi' },
     ],
     correctAnswer: 'E',
-    explanation: "Antonim dari 'Prominen' adalah 'Tersembunyi'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Prominen' berlawanan makna dengan 'Biasa'. Jadi jawabannya Biasa.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1433,7 +1433,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Kuno' },
     ],
     correctAnswer: 'E',
-    explanation: "Antonim dari 'Canggih' adalah 'Kuno'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Canggih' berlawanan makna dengan 'Sederhana'. Jadi jawabannya Sederhana.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1449,7 +1449,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Lurus' },
     ],
     correctAnswer: 'D',
-    explanation: "Antonim dari 'Konkaf' adalah 'Konveks'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Konkaf' berlawanan makna dengan 'Konveks'. Jadi jawabannya Konveks.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1465,7 +1465,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Lurus' },
     ],
     correctAnswer: 'C',
-    explanation: "Antonim dari 'Perintis' adalah 'Penerus'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Perintis' berlawanan makna dengan 'Penerus'. Jadi jawabannya Penerus.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1481,7 +1481,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Hangat' },
     ],
     correctAnswer: 'B',
-    explanation: "Antonim dari 'Tinggi' adalah 'Rendah'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Tinggi' berlawanan makna dengan 'Rendah'. Jadi jawabannya Rendah.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1497,7 +1497,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Sementara' },
     ],
     correctAnswer: 'D',
-    explanation: "Antonim dari 'Gegai' adalah 'Lurus'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Gegai' berlawanan makna dengan 'Lurus'. Jadi jawabannya Lurus.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1513,7 +1513,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Asli' },
     ],
     correctAnswer: 'E',
-    explanation: "Antonim dari 'Tetiran' adalah 'Asli'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Tetiran' berlawanan makna dengan 'Asli'. Jadi jawabannya Asli.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1529,7 +1529,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Sementara' },
     ],
     correctAnswer: 'D',
-    explanation: "Antonim dari 'Ekspresi' adalah 'Penahanan'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Ekspresi' berlawanan makna dengan 'Penahanan'. Jadi jawabannya Penahanan.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1545,7 +1545,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Diam' },
     ],
     correctAnswer: 'C',
-    explanation: "Antonim dari 'Takzim' adalah 'Durhaka'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Takzim' berlawanan makna dengan 'Durhaka'. Jadi jawabannya Durhaka.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1561,7 +1561,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Nanti' },
     ],
     correctAnswer: 'A',
-    explanation: "Antonim dari 'Apriori' adalah 'Posteriori'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Apriori' berlawanan makna dengan 'Posteriori'. Jadi jawabannya Posteriori.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1577,7 +1577,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Dogmatis' },
     ],
     correctAnswer: 'E',
-    explanation: "Antonim dari 'Eklektik' adalah 'Dogmatis'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Eklektik' berlawanan makna dengan 'Dogmatis'. Jadi jawabannya Dogmatis.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1593,7 +1593,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Kecerobohan' },
     ],
     correctAnswer: 'C',
-    explanation: "Antonim dari 'Asli' adalah 'Palsu'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Asli' berlawanan makna dengan 'Palsu'. Jadi jawabannya Palsu.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1609,7 +1609,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Kakek' },
     ],
     correctAnswer: 'D',
-    explanation: "Antonim dari 'Sekarang' adalah 'Nanti'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Sekarang' berlawanan makna dengan 'Nanti'. Jadi jawabannya Nanti.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1625,7 +1625,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Eksekutif' },
     ],
     correctAnswer: 'E',
-    explanation: "Antonim dari 'Legislatif' adalah 'Eksekutif'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Legislatif' berlawanan makna dengan 'Eksekutif'. Jadi jawabannya Eksekutif.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1882,7 +1882,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Konveks' },
     ],
     correctAnswer: 'D',
-    explanation: "Antonim dari 'Kebijakan' adalah 'Kecerobohan'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Anggara' berlawanan makna dengan 'Jinak'. Jadi jawabannya Jinak.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1898,7 +1898,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Menetap' },
     ],
     correctAnswer: 'A',
-    explanation: "Antonim dari 'Konklusif' adalah 'Tidak pasti'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Konklusif' berlawanan makna dengan 'Tidak pasti'. Jadi jawabannya Tidak pasti.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1914,7 +1914,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Loyal' },
     ],
     correctAnswer: 'E',
-    explanation: "Antonim dari 'Makar' adalah 'Loyal'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Makar' berlawanan makna dengan 'Loyal'. Jadi jawabannya Loyal.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1930,7 +1930,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Simpati' },
     ],
     correctAnswer: 'A',
-    explanation: "Antonim dari 'Curang' adalah 'Jujur'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Curang' berlawanan makna dengan 'Jujur'. Jadi jawabannya Jujur.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1946,7 +1946,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Kaku' },
     ],
     correctAnswer: 'D',
-    explanation: "Antonim dari 'Pasti' adalah 'Ragu'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Pasti' berlawanan makna dengan 'Ragu'. Jadi jawabannya Ragu.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1962,7 +1962,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Kakek' },
     ],
     correctAnswer: 'C',
-    explanation: "Antonim dari 'Longgar' adalah 'Ketat'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Longgar' berlawanan makna dengan 'Ketat'. Jadi jawabannya Ketat.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1978,7 +1978,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Dosa' },
     ],
     correctAnswer: 'B',
-    explanation: "Antonim dari 'Bulat' adalah 'Datar'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Bulat' berlawanan makna dengan 'Datar'. Jadi jawabannya Datar.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -1994,7 +1994,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Kecerobohan' },
     ],
     correctAnswer: 'D',
-    explanation: "Antonim dari 'Abadi' adalah 'Sementara'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Abadi' berlawanan makna dengan 'Sementara'. Jadi jawabannya Sementara.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -2010,7 +2010,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Sementara' },
     ],
     correctAnswer: 'A',
-    explanation: "Antonim dari 'Amal' adalah 'Dosa'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Amal' berlawanan makna dengan 'Dosa'. Jadi jawabannya Dosa.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -2026,7 +2026,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Lurus' },
     ],
     correctAnswer: 'C',
-    explanation: "Antonim dari 'Bukit' adalah 'Lembah'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Bukit' berlawanan makna dengan 'Lembah'. Jadi jawabannya Lembah.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -2042,7 +2042,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Terbenam' },
     ],
     correctAnswer: 'E',
-    explanation: "Antonim dari 'Terkatung' adalah 'Terbenam'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Terkatung' berlawanan makna dengan 'Terbenam'. Jadi jawabannya Terbenam.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -2058,7 +2058,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Penerus' },
     ],
     correctAnswer: 'B',
-    explanation: "Antonim dari 'Konveks' adalah 'Konkaf'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Konveks' berlawanan makna dengan 'Konkaf'. Jadi jawabannya Konkaf.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -2074,7 +2074,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Konveks' },
     ],
     correctAnswer: 'B',
-    explanation: "Antonim dari 'Elastis' adalah 'Kaku'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Elastis' berlawanan makna dengan 'Kaku'. Jadi jawabannya Kaku.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -2090,7 +2090,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Rasional' },
     ],
     correctAnswer: 'A',
-    explanation: "Antonim dari 'Deduksi' adalah 'Induksi'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Deduksi' berlawanan makna dengan 'Induksi'. Jadi jawabannya Induksi.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -2106,7 +2106,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Rasional' },
     ],
     correctAnswer: 'B',
-    explanation: "Antonim dari 'Monoton' adalah 'Bervariasi'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Monoton' berlawanan makna dengan 'Bervariasi'. Jadi jawabannya Bervariasi.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -2122,7 +2122,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Penipisan' },
     ],
     correctAnswer: 'C',
-    explanation: "Antonim dari 'Mandiri' adalah 'Tergantung'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Mandiri' berlawanan makna dengan 'Tergantung'. Jadi jawabannya Tergantung.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -2138,7 +2138,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Aman' },
     ],
     correctAnswer: 'B',
-    explanation: "Antonim dari 'Cucu' adalah 'Kakek'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Cucu' berlawanan makna dengan 'Kakek'. Jadi jawabannya Kakek.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -2154,7 +2154,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Eksekutif' },
     ],
     correctAnswer: 'B',
-    explanation: "Antonim dari 'Universal' adalah 'Partikular'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Universal' berlawanan makna dengan 'Partikular'. Jadi jawabannya Partikular.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -2170,7 +2170,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Kecerobohan' },
     ],
     correctAnswer: 'C',
-    explanation: "Antonim dari 'Pertemuan' adalah 'Perpisahan'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Pertemuan' berlawanan makna dengan 'Perpisahan'. Jadi jawabannya Perpisahan.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -2186,7 +2186,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Sementara' },
     ],
     correctAnswer: 'C',
-    explanation: "Antonim dari 'Fonem' adalah 'Graphem'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Fonem' berlawanan makna dengan 'Graphem'. Jadi jawabannya Graphem.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -2202,7 +2202,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Penipisan' },
     ],
     correctAnswer: 'E',
-    explanation: "Antonim dari 'Pemupukan' adalah 'Penipisan'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Pemupukan' berlawanan makna dengan 'Penipisan'. Jadi jawabannya Penipisan.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -2218,7 +2218,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Kaku' },
     ],
     correctAnswer: 'B',
-    explanation: "Antonim dari 'Siau' adalah 'Hangat'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Siau' berlawanan makna dengan 'Hangat'. Jadi jawabannya Hangat.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -2234,7 +2234,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Takut' },
     ],
     correctAnswer: 'D',
-    explanation: "Antonim dari 'Preman' adalah 'Sah'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Preman' berlawanan makna dengan 'Sah'. Jadi jawabannya Sah.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -2250,7 +2250,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Teratur' },
     ],
     correctAnswer: 'C',
-    explanation: "Antonim dari 'Panas' adalah 'Dingin'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Panas' berlawanan makna dengan 'Dingin'. Jadi jawabannya Dingin.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
   {
@@ -2266,7 +2266,7 @@ export const verbalQuestions: BaseQuestion[] = [
       { id: 'E', text: 'Asli' },
     ],
     correctAnswer: 'B',
-    explanation: "Antonim dari 'Halus' adalah 'Kasar'.",
+    explanation: "Kenali tipe soal: antonim atau lawan kata. Cara cepat: ubah dulu kata soal menjadi makna sederhana, lalu cari opsi yang arahnya berlawanan. Kata 'Halus' berlawanan makna dengan 'Kasar'. Jadi jawabannya Kasar.",
     metadata: { source: 'psikotest_questions_updated.json', crawledAt: '2026-05-08' },
   },
 ]
