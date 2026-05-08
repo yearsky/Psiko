@@ -4,6 +4,20 @@ import { X, Send, Sparkles } from 'lucide-react'
 import { useChatStore, type ChatMessage } from '@/store/chatStore'
 import type { BaseQuestion } from '@/types/psikotest'
 
+function renderContent(text: string) {
+  // Split by **bold** pattern and render accordingly
+  const parts = text.split(/(\*\*[^*]+\*\*)/g)
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>
+    }
+    // Render newlines as <br>
+    return part.split('\n').map((line, j, arr) => (
+      <span key={`${i}-${j}`}>{line}{j < arr.length - 1 && <br />}</span>
+    ))
+  })
+}
+
 interface Props {
   question: BaseQuestion
   onClose: () => void
@@ -132,13 +146,13 @@ export function ChatModal({ question, onClose }: Props) {
           {messages.map((msg, i) => (
             <div key={i} className={`flex ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}>
               <div
-                className={`max-w-[80%] rounded-2xl px-4 py-2.5 text-sm whitespace-pre-wrap ${
+                className={`max-w-[80%] rounded-2xl px-4 py-2.5 text-sm ${
                   msg.role === 'user'
                     ? 'bg-blue-600 text-white rounded-br-sm'
                     : 'bg-gray-100 text-gray-800 rounded-bl-sm'
                 }`}
               >
-                {msg.content}
+                {renderContent(msg.content)}
               </div>
             </div>
           ))}
