@@ -18,3 +18,23 @@ body {
     text-wrap: balance;
   }
 }
+
+/* Prevent KaTeX display math from overflowing its container */
+.katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+  max-width: 100%;
+}
+
+.katex-display > .katex {
+  max-width: 100%;
+  white-space: normal;
+}
+
+.katex-display > .katex > .katex-html {
+  max-width: 100%;
+}
+
+.katex .vlist-t {
+  max-width: 100%;
+}
