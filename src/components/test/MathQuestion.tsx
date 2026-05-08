@@ -16,8 +16,8 @@ export function MathQuestion({ question }: Props) {
         <p className="text-base text-gray-700 leading-relaxed">{question.text}</p>
       )}
       {question.latexExpression && (
-        <div className="p-4 bg-gray-50 rounded-xl border border-gray-200 w-full overflow-x-auto">
-          <div className="min-w-0 max-w-full">
+        <div className="w-full overflow-hidden rounded-xl border border-gray-200 bg-gray-50">
+          <div className="overflow-x-auto p-4">
             <BlockMath math={question.latexExpression} />
           </div>
         </div>

@@ -249,7 +249,7 @@ export default function SessionPage() {
       />
 
       {/* Main layout */}
-      <div className="grid lg:grid-cols-[1fr_240px] gap-4 items-start">
+      <div className="grid lg:grid-cols-[minmax(0,1fr)_240px] gap-4 items-start min-w-0">
         {/* Question */}
         <div className="space-y-4">
           <QuestionCard
