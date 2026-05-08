@@ -2,7 +2,8 @@
 import dynamic from 'next/dynamic'
 import type { BaseQuestion } from '@/types/psikotest'
 
-const BlockMath = dynamic(() => import('react-katex').then(m => m.BlockMath), { ssr: false })
+// InlineMath only — BlockMath causes katex-display full-width SVG overflow on mobile.
+// Use \displaystyle prefix to get display-size rendering without the layout side-effects.
 const InlineMath = dynamic(() => import('react-katex').then(m => m.InlineMath), { ssr: false })
 
 interface Props {
@@ -16,10 +17,10 @@ export function MathQuestion({ question }: Props) {
         <p className="text-base text-gray-700 leading-relaxed">{question.text}</p>
       )}
       {question.latexExpression && (
-        <div className="w-full overflow-hidden rounded-xl border border-gray-200 bg-gray-50">
-          <div className="overflow-x-auto p-4">
-            <BlockMath math={question.latexExpression} />
-          </div>
+        <div className="w-full overflow-x-auto rounded-xl border border-gray-200 bg-gray-50 p-4">
+          <span className="flex justify-center">
+            <InlineMath math={`\\displaystyle ${question.latexExpression}`} />
+          </span>
         </div>
       )}
     </div>

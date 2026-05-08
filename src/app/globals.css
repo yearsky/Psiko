@@ -19,25 +19,11 @@ body {
   }
 }
 
-/* Prevent KaTeX display math from overflowing its container */
-.katex-display {
-  overflow-x: auto;
-  overflow-y: hidden;
-  max-width: 100%;
-  margin: 0 !important;
-}
-
-.katex-display > .katex {
+/* Constrain any katex element that ends up wider than its container */
+.katex {
   max-width: 100%;
 }
 
-/* Prevent the internal KaTeX vlist table from stretching */
 .katex .katex-html {
-  max-width: 100%;
-  overflow-x: auto;
-}
-
-.katex .vlist-t,
-.katex .vlist-t2 {
   max-width: 100%;
 }
